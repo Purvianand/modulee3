@@ -1,0 +1,138 @@
+
+       *{
+                	
+    	 	padding: 0;
+    	 	margin: 0;
+    	 	box-sizing: border-box;
+  
+  }
+   h1{
+    	text-align: center;
+    	font-family: cursive;
+    	font-style: italic;
+    	color: black;
+    	margin:30px;
+    	font-size:30px;
+    	font-weight: bold;
+    }
+    
+    h3{
+    	font-style: italic;
+    	font-size: 30px;
+    	font-family: cursive;
+    	text-align: center;
+    	font-weight: bold;
+    }
+   .row{
+   	margin: 4px;
+   	
+   }
+   #box1{
+   	margin: 3px;
+   	background-color: gray;
+   	font-family: cursive;
+   	padding-left: 3px;
+   	padding-right: 3px;
+   	font-size: 18px;
+   	font-weight: bold;
+   	height: auto;
+   	width: auto;
+   }
+   
+    	   	 #box2{
+   	margin: 3px;
+   	background-color: gray;
+   	 	
+    	font-family: cursive;
+    	padding-left: 3px;
+    	padding-right: 3px;
+    	font-size:18px;
+    	font-weight: bold;
+    	height:auto;
+    	width: auto;
+   		
+   }
+    	 #box3{
+   	margin: 3px;
+   	background-color: gray;
+   	 	
+    	font-family: cursive;
+    	padding-left: 3px;
+    	padding-right: 3px;
+    	font-size:18px;
+    	font-weight: bold;
+    	height: auto;
+    	width: auto;
+   	
+   }
+   #header-nav{
+   	background-color: gray;
+   	border-radius: 0;
+   	border: 5px solid black;
+   	height: 90px;
+   	position: relative;
+   	padding-top: 7px;
+   	padding-left: 25px;
+   }
+   .navbar-brand{
+   	padding-top: 25px;
+   }
+
+    	 .navbar-brand{
+    	 	color: black;
+    	 	font-family: cursive;
+    	 	font size: 1em;
+    	 	font-weight: bold; line-height: 3;
+    	 	margin-top: 0;
+    	 	margin-bottom: 0;
+    	 }
+    	 .navbar-brand a:hover,.navbar-brand a:focus{
+    	 	text-decoration: none;
+    	 }
+    	 p{
+    	 	
+    	 	color: black;
+    	 	font-size: 1.5em;
+    	 	margin: 5px;
+    	 	
+    	 }
+    	 .container{
+    	 	margin: 0;
+    	 	padding: 0;
+    	 	
+    	 }
+    	 .navbar-brand{
+    	 	position: relative;
+    	 	float: left;
+    	 }
+    	 li{
+    	 	background-color: white;
+    	 	text-align: center;
+    	 	font-family: cursive;
+    	 	font-weight: bold;
+    	 	width: 100%;
+    	 	box-sizing: border-box;
+    	 	border: 2px solid black;
+    	 	border-bottom: 1px;
+    	 	margin: 0px;
+    	 	padding: 0px;
+    	 	
+    	 }
+    	 .navbar{
+    	 	width:100%;
+    	 	margin: 0;
+    	 	padding: 0;
+    	 }
+    	 .beef{
+    	 	border: 2px solid black;
+    	 }
+    	 .menu-item{
+    	 	color: black;
+    	 	display: block;
+    	 }
+    	 .row{
+    	 	width: auto;
+    	 	height: auto;
+    	 }
+
+
